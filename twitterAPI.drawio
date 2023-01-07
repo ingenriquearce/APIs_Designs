@@ -1,0 +1,127 @@
+<mxfile host="app.diagrams.net" modified="2023-01-07T20:58:02.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P2YWX72NFT3qYJoulgjF" version="20.8.3" type="github">
+  <diagram id="zj2V3Fss-gwxbDoHE03r" name="Página-1">
+    <mxGraphModel dx="874" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xk4q11qb7xbpFC7qglca-2" value="API Twitter" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aplication&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Program&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Interface&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-4" value="Resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-9" value="Fast API" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="260" y="20" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Xk4q11qb7xbpFC7qglca-4" target="Xk4q11qb7xbpFC7qglca-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-11" value="Django - REST" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="240" y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-12" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Xk4q11qb7xbpFC7qglca-4" target="Xk4q11qb7xbpFC7qglca-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="104" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-13" value="Flask" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="260" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Xk4q11qb7xbpFC7qglca-4" target="Xk4q11qb7xbpFC7qglca-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-15" value="Create&lt;br&gt;Read&lt;br&gt;Update&lt;br&gt;Delete" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-16" value="Design a CRUD:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-17" value="endpoint/route/path -&amp;gt; http://www.twitter.com" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-18" value="Models: Tweets and Users" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-19" value="Tweets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="305.32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="88.75" y="230.63" width="61.25" height="179.37" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-21" value="/tweets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-22" value="/post" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-23" value="/tweets/{post_id}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-24" value="/tweets/{post_id}/update" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-25" value="/tweets/{post_id}/delete" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="370" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-27" value="Users" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="504.69" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-29" value="/users" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="444.69" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-30" value="/signup" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="474.69" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-31" value="/users/{user_id}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="504.69" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-32" value="/users/{user_id}/update" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="539.37" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="88.75" y="430" width="61.25" height="179.37" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-34" value="/users/{user_id}/delete" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="569.37" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-35" value="-&amp;gt; show all tweets" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-36" value="-&amp;gt; post a tweet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-37" value="-&amp;gt; show a tweet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="310" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-38" value="-&amp;gt; update a tweet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-39" value="-&amp;gt; delete a tweet" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="370" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-40" value="-&amp;gt; show all users" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="449.37" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-41" value="-&amp;gt; sign in a new user" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="479.37" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-42" value="-&amp;gt; show a user" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="509.37" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-43" value="-&amp;gt; update a user" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="539.37" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xk4q11qb7xbpFC7qglca-44" value="-&amp;gt; delete a user" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="569.37" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
